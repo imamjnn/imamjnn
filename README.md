@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imamjnn
-- 👀 I’m interested [in mobile application development]
+- 👀 I’m interested in [mobile application development]
 - 🌱 I’m currently [learning react native]
 - 📫 How to reach me [immjnn@gmail.com]
 
